@@ -1,0 +1,8 @@
+{
+	'index': 6
+	'timestamp': 1588352560.6010065
+	'transactions': []
+	'proof': 76531
+	'previous_hash': a8308bca80790bcdc7c7d1b3c2722aeb010ac9e992842ee1ab26ef3990913079
+	'data': ['Staples', 500, 1588352560.6010065]
+}

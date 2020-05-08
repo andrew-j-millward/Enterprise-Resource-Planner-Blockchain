@@ -1,0 +1,8 @@
+{
+	'index': 6
+	'timestamp': 1588306929.4750981
+	'transactions': []
+	'proof': 72252
+	'previous_hash': 5254709d298a3d4b82c37e8f1d52d6c33a017e67c39b8a66fd325c2ba4549897
+	'data': [4, 43, 0, 1588306929.4760978]
+}
