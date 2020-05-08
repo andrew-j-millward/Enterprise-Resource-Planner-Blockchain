@@ -1,0 +1,8 @@
+{
+	'index': 4
+	'timestamp': 1588303247.3109488
+	'transactions': []
+	'proof': 33324
+	'previous_hash': 6cdc1dbe0e7e507a4c403c4e9291a74b76e798e9fd6ba7c58525f400e3a4f10c
+	'data': ['Dave Hired', 0, 65000, 0, 'HR', 'Bob Ross', 2, 1588303247.311951]
+}

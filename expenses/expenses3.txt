@@ -1,0 +1,8 @@
+{
+	'index': 3
+	'timestamp': 1588297201.184742
+	'transactions': []
+	'proof': 45447
+	'previous_hash': 71dae2cf01c3a023dc479e9f971d2300ec56037d9a501f15e7480500e7e70080
+	'data': [5000, 2, 'Laptop batteries', 1588297200.0897963, 0]
+}

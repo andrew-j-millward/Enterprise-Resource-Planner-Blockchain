@@ -1,0 +1,8 @@
+{
+	'index': 48
+	'timestamp': 1588351954.3373702
+	'transactions': []
+	'proof': 13349
+	'previous_hash': 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
+	'data': ['Pamphlets,', 1000, 1588351954.3383694]
+}

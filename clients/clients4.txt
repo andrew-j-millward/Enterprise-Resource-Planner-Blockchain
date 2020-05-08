@@ -1,0 +1,8 @@
+{
+	'index': 4
+	'timestamp': 1588304817.7561913
+	'transactions': []
+	'proof': 12098
+	'previous_hash': 1c637baec69637f3791ddf2ba99ff85370d0bf26bd45ea8e29791616c02650df
+	'data': ['Alvin Lame', 4236243, 0, "Checking", 1232, 1588304817.6991928]
+}
